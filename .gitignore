@@ -1,0 +1,8 @@
+.idea/
+*.pyc
+Data/ped2
+Codes/checkpoints/avenue.*
+Codes/checkpoints/ped1.*
+Codes/checkpoints/ped2.*
+Codes/checkpoints/shanghaitech.*
+Codes/checkpoints/flownet-SD.*
